@@ -3,8 +3,8 @@
 !!! info
     A number of variables are supported. 
 
-    * **{link}** Links to the new video (don't forget this one!)
-    * **{author}** The youtuber's channel title
+    * **{ https://youtube.com/channel/UCRkSguGRdTNtpDWCGzkkcag}** Links to the new video (don't forget this one!)
+    * **{ADHITH GAMING uploaded a vedio}** The youtuber's channel title
     * **{everyone}** @everyone
 
 | Name | Example | Usage |
